@@ -1,0 +1,18 @@
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.post-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-item {
+  padding: 10px;
+  font-size: 18px;
+  border-bottom: 1px solid #ddd;
+  width: 300px;
+  margin: 0 auto;
+}
